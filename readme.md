@@ -1,6 +1,9 @@
 # Retropie gamelist.xml 遊戲名稱中文化
 
-    安裝完retropie再放入roms生gamelist後,雖然玩的很開心,但幾千個遊戲列表全是英文,跑隨機選擇識別度實在太低網路上又沒什麼人發佈gamelist.xml檔,只好開專案自行處理
+    安裝完retropie再放入roms生gamelist後,雖然玩的很開心
+    但幾千個遊戲列表全是英文,跑隨機選擇識別度實在太低
+    網路上又沒什麼人發佈gamelist.xml檔
+    只好開專案自行處理
   
     !!!目標:製作retropie中文gamelist.xml
 
@@ -90,5 +93,7 @@
 + 中文名稱排序雖然堆在一起好像很好,但還是覺得哪裏怪怪的
 
 + mameplus裏有**mameinfo.dat** **history.dat** **command.dat**,如果資料能搬過去...那爽度就更大了
+![mameplus](.readme/mameplus.png)
+那麼多資訊也裝不下吧
 
 + 簡,日,韓的名稱對照表都有,那要放到說明欄裏嗎?
